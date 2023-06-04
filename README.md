@@ -1,12 +1,12 @@
   <p align="center">
-  <a href="https://github.com/amd64fox/SpotX/releases"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/logo.png" />
+  <a href="https://github.com/amd64fox/SpotX/releases"><img src="https://raw.githubusercontent.com/sharunkumar/SpotX/test/.github/Pic/logo.png" />
 </p>
 
 <p align="center">        
-      <a href="https://t.me/spotify_windows_mod"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/SpotX_Channel.svg"></a>
-      <a href="https://t.me/SpotxCommunity"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/SpotX_Community.svg"></a>
-      <a href="https://github.com/jetfir3/SpotX-Bash"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/SpotX_for_Mac&Linux.svg"></a>
-      <a href="https://telegra.ph/SpotX-FAQ-09-19"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/faq.svg"></a>
+      <a href="https://t.me/spotify_windows_mod"><img src="https://raw.githubusercontent.com/sharunkumar/SpotX/test/.github/Pic/Shields/SpotX_Channel.svg"></a>
+      <a href="https://t.me/SpotxCommunity"><img src="https://raw.githubusercontent.com/sharunkumar/SpotX/test/.github/Pic/Shields/SpotX_Community.svg"></a>
+      <a href="https://github.com/jetfir3/SpotX-Bash"><img src="https://raw.githubusercontent.com/sharunkumar/SpotX/test/.github/Pic/Shields/SpotX_for_Mac&Linux.svg"></a>
+      <a href="https://telegra.ph/SpotX-FAQ-09-19"><img src="https://raw.githubusercontent.com/sharunkumar/SpotX/test/.github/Pic/Shields/faq.svg"></a>
       </p>
 
    <h2> <div align="center"><b> Modified Spotify Client for Windows </b></div> </h2>
@@ -41,14 +41,14 @@
 
   <h4> </h4>
   
-#### Just download and run [Install.bat](https://raw.githack.com/amd64fox/SpotX/main/Install_New_theme.bat)
+#### Just download and run [Install.bat](https://raw.githack.com/sharunkumar/SpotX/test/Install_New_theme.bat)
 
 or
 
 #### Run The following command in PowerShell:
 
 ```ps1
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -new_theme"
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/sharunkumar/SpotX/test/Install.ps1').Content) } -new_theme"
 ```
 
 </details>
@@ -64,14 +64,14 @@ or
 
   <h4> </h4>
   
-#### Just download and run [Install.bat](https://raw.githack.com/amd64fox/SpotX/main/Install_Old_theme.bat)
+#### Just download and run [Install.bat](https://raw.githack.com/sharunkumar/SpotX/test/Install_Old_theme.bat)
 
 or
 
 #### Run The following command in PowerShell:
 
 ```ps1
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; (iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content | iex
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; (iwr -useb 'https://raw.githubusercontent.com/sharunkumar/SpotX/test/Install.ps1').Content | iex
 ```
 
 </details>
@@ -93,14 +93,14 @@ or
   
 <h4> </h4>
 
-#### Just download and run [Install_Auto.bat](https://raw.githack.com/amd64fox/SpotX/main/scripts/Install_Auto.bat)
+#### Just download and run [Install_Auto.bat](https://raw.githack.com/sharunkumar/SpotX/test/scripts/Install_Auto.bat)
 
 or
 
 #### Run The following command in PowerShell:
 
 ```ps1
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_off -block_update_on -start_spoti -new_theme -adsections_off -lyrics_stat spotify"
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/sharunkumar/SpotX/test/Install.ps1').Content) } -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_off -block_update_on -start_spoti -new_theme -adsections_off -lyrics_stat spotify"
 ```
 
 </details>
@@ -119,14 +119,14 @@ or
 
   <h4> </h4>
   
-#### Just download and run [Install_Prem.bat](https://raw.githack.com/amd64fox/SpotX/main/scripts/Install_Prem.bat)
+#### Just download and run [Install_Prem.bat](https://raw.githack.com/sharunkumar/SpotX/test/scripts/Install_Prem.bat)
 
 or
 
 #### Run The following command in PowerShell:
 
 ```ps1
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -premium -new_theme"
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/sharunkumar/SpotX/test/Install.ps1').Content) } -premium -new_theme"
 ```
 
 </details>
@@ -176,7 +176,7 @@ You can specify various parameters for a more flexible installation, more [detai
 
 <h1>Uninstall</h1>
 
-- Just run [Uninstall.bat](https://raw.githack.com/amd64fox/SpotX/main/Uninstall.bat)
+- Just run [Uninstall.bat](https://raw.githack.com/sharunkumar/SpotX/test/Uninstall.bat)
 
 or
 
